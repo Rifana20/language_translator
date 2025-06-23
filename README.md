@@ -16,7 +16,9 @@ It supports translation between multiple languages including **English**, **Hind
 
 ## 🖼 Demo UI
 
-![screenshot](screenshot.png)
+![Screenshot (824)](https://github.com/user-attachments/assets/8b80a2b8-ab49-4698-b30d-db7cbeecce45)
+
+![Screenshot (825)](https://github.com/user-attachments/assets/748b693a-a008-47e6-a6e1-2339742e7896)
 
 ---
 
