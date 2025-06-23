@@ -1,8 +1,3 @@
-Sure, Rifana! Let's walk through the code and then I’ll provide a clean `README.md` you can use for GitHub or documentation.
-
----
-
-## ✅ Explanation of the Google Translate API Code
 
 ### 📁 File: `app.py`
 
