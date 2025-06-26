@@ -120,9 +120,7 @@ MIT License — feel free to use and modify for learning purposes.
 
 Made with using Google Translate API and Streamlit.
 
-````
 
----
 
 
 
