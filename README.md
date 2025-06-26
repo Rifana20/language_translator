@@ -1,20 +1,20 @@
-# 🌍 Language Translator Bot (Google Translate API)
+# Language Translator Bot (Google Translate API)
 
 This is a beginner-friendly, web-based language translator built using **Streamlit** and the **Google Translate API**.  
 It supports translation between multiple languages including **English**, **Hindi**, **French**, **German**, **Spanish**, and **Malayalam**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌐 Translate between multiple supported languages
-- 🧠 Smart interface using Streamlit
-- ✅ Malayalam included!
-- 🔐 Secure API key management using `.env`
+- Translate between multiple supported languages
+- Smart interface using Streamlit
+- Malayalam included!
+- Secure API key management using `.env`
 
 ---
 
-## 🖼 Demo UI
+## Demo UI
 
 ![Screenshot (824)](https://github.com/user-attachments/assets/8b80a2b8-ab49-4698-b30d-db7cbeecce45)
 
@@ -22,7 +22,7 @@ It supports translation between multiple languages including **English**, **Hind
 
 ---
 
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 - [Streamlit](https://streamlit.io/)
 - [Google Translate API](https://cloud.google.com/translate)
@@ -31,7 +31,7 @@ It supports translation between multiple languages including **English**, **Hind
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repo
 
@@ -67,7 +67,7 @@ You can generate an API key from: https://console.cloud.google.com/apis/credenti
 
 ---
 
-## ▶️ Run the App
+## Run the App
 
 ```bash
 streamlit run app.py
@@ -77,7 +77,7 @@ Then open: http://localhost:8501 in your browser.
 
 ---
 
-## 🧪 Run the App
+##  Run the App
 
 ```bash
 streamlit run app.py
@@ -87,7 +87,7 @@ Then go to [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🌐 Language Support
+##  Language Support
 
 | Language  | Code |
 | --------- | ---- |
@@ -100,7 +100,7 @@ Then go to [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## ✅ Sample Test Cases
+## Sample Test Cases
 
 | Text              | From      | To      | Expected Output    |
 | ----------------- | --------- | ------- | ------------------ |
@@ -110,15 +110,15 @@ Then go to [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License — feel free to use and modify for learning purposes.
 
 ---
 
-## 💡 Credits
+## Credits
 
-Made with ❤️ using Google Translate API and Streamlit.
+Made with using Google Translate API and Streamlit.
 
 ````
 
